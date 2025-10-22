@@ -3,6 +3,7 @@ import pdfkit
 from PyPDF2 import PdfMerger
 import tempfile
 import os
+os.system("apt-get update -y && apt-get install -y hwp5 wkhtmltopdf")
 import subprocess
 
 st.set_page_config(page_title="HWP to PDF 병합기", layout="wide")
