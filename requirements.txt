@@ -8,4 +8,6 @@ pandas
 matplotlib
 openpyxl
 xlrd
+pandas
+matplotlib
 
