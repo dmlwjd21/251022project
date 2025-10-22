@@ -2,3 +2,5 @@ streamlit
 pdfkit
 PyPDF2
 hwp5
+pypandoc
+
