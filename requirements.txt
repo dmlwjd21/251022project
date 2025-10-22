@@ -3,4 +3,9 @@ pdfkit
 PyPDF2
 hwp5
 pypandoc
+streamlit
+pandas
+matplotlib
+openpyxl
+xlrd
 
